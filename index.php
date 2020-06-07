@@ -32,7 +32,7 @@
         <div class="introduction">
             <div class="intro-tex">
                 <h1>Hello This Is A Website </h1>
-                <p>This is the end khkj bkjbh kjbh </p>
+                <p>This is a responsive website </p>
             </div>
             <div class="cta">
                 <button class="cta-select">New</button>
